@@ -6,7 +6,7 @@ body {
   padding: 0;
   font-family: "Montserrat", sans-serif;
   overflow: hidden;
-  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-image: linear-gradient(to bottom, lightcoral 0%, darksalmon 100%);
   color: white;
 }
 
